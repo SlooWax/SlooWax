@@ -28,7 +28,7 @@
 
 
 <!-- My Links -->
-<h3>My Services:</h3>
+<h3>My Links:</h3>
 <a href="https://osu.ppy.sh/u/sloowax" target="_blank"><img src="https://rathole.ru/attachments/logos/osu.png" width="32" height="32"></a>
 <a href="https://open.spotify.com/user/dedcie568ns1ynydgb9i1u74j?si=0b29a583a13a4a28" target="_blank"><img src="https://rathole.ru/attachments/logos/spotify.png" width="32" height="32"></a>
 <a href="https://t.me/sloowax" target="_blank"><img src="https://rathole.ru/attachments/logos/tg.ico" width="32" height="32"></a>
