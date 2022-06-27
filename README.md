@@ -2,7 +2,7 @@
 <img src="https://cdn.rathole.ru/images/handhi.gif" height="32"/></h1>
 <h3 align="center">System and Network Administrator From Russia 🇷🇺</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7914C&lines=sudo+yum+update+%26%26+upgrade;It's+Time+For+Big+Bruh+Moment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7914C&lines=sudo+dnf+update+%26%26+dnf+upgrade;It's+Time+For+Big+Bruh+Moment)](https://git.io/typing-svg)
 <h3>I speak Russian, English (B2), and Deutsch(A2-B1)</h3>
 
 
@@ -14,11 +14,11 @@
 
 <!-- My Soft -->
 <h3>What Tools I Use</h3>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/tux.png" width="32" height="32"></a>
 <a href="https://getfedora.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/fedora.ico" width="32" height="32"></a>
+<a href="https://rockylinux.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/rocky.png" width="32" height="32"></a>
 <a href="https://flathub.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/flatpak.png" width="32" height="32"></a>
 <a href="https://desktop.github.com/" target="_blank"><img src="https://rathole.ru/attachments/logos/gitdesk.svg"  width="32" height="32"></a>
-<a href="https://www.kernel.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/tux.png" width="32" height="32"></a>
-<a href="https://rockylinux.org/" target="_blank"><img src="https://rathole.ru/attachments/logos/rocky.png" width="32" height="32"></a>
 <a href="https://www.wireguard.com/" target="_blank"><img src="https://rathole.ru/attachments/logos/wireguard.png" width="32" height="32"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://rathole.ru/attachments/logos/vs.png" width="32" height="32"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://rathole.ru/attachments/logos/vscode.png" width="32" height="32"></a>
